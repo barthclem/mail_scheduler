@@ -1,0 +1,32 @@
+{
+  "name": "emailer",
+  "version": "1.0.0",
+  "description": "sends email",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    " bookshelf": "0.9.2",
+    "body-parser": "^1.16.1",
+    "bookshelf-soft-delete": "4.0.0",
+    "cookie-parser": "^1.4.3",
+    "custom-error-generator": "7.0.0",
+    "dotenv": "^4.0.0",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "https": "^1.0.0",
+    "jscs": "^2.11.0",
+    "knex": "^0.12.6",
+    "lodash": "^4.17.4",
+    "lodash.pick": "4.1.0",
+    "moment": "^2.17.1",
+    "mysql": "^2.13.0",
+    "nodemailer": "^3.0.2",
+    "path": "^0.12.7",
+    "request": "2.72.0",
+    "restify": "4.1.1"
+  }
+}

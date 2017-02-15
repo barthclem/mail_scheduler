@@ -1,0 +1,404 @@
+
+Log =>  time : Tue Feb 14 2017 22:45:21 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port:
+     8083
+
+
+Log =>  time : Tue Feb 14 2017 22:46:48 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port:
+     8083
+
+
+Log =>  time : Tue Feb 14 2017 22:48:43 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port:
+     8083
+
+
+Log =>  time : Tue Feb 14 2017 22:51:10 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port:
+     8083
+
+
+Log =>  time : Tue Feb 14 2017 22:51:10 GMT+0100 (WAT) : Daily Scheduler has been started
+Log =>  time : Tue Feb 14 2017 22:57:19 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port:
+     8083
+
+
+Log =>  time : Tue Feb 14 2017 22:57:19 GMT+0100 (WAT) : Daily Scheduler has been started
+Log =>  time : Tue Feb 14 2017 23:00:30 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port:
+     8083
+
+
+Log =>  time : Tue Feb 14 2017 23:00:30 GMT+0100 (WAT) : Daily Scheduler has been started
+Log =>  time : Tue Feb 14 2017 23:09:21 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port:
+     8083
+
+
+Log =>  time : Tue Feb 14 2017 23:09:21 GMT+0100 (WAT) : Daily Scheduler has been started
+Log =>  time : Tue Feb 14 2017 23:12:57 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port:
+     8083
+
+
+Log =>  time : Tue Feb 14 2017 23:12:57 GMT+0100 (WAT) : Daily Scheduler has been started
+Log =>  time : Tue Feb 14 2017 23:15:01 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port:
+     8083
+
+
+Log =>  time : Tue Feb 14 2017 23:15:01 GMT+0100 (WAT) : Daily Scheduler has been started
+Log =>  time : Tue Feb 14 2017 23:18:25 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port:
+     8083
+
+
+Log =>  time : Tue Feb 14 2017 23:18:25 GMT+0100 (WAT) : Daily Scheduler has been started
+Log =>  time : Tue Feb 14 2017 23:22:51 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port:
+     8083
+
+
+Log =>  time : Tue Feb 14 2017 23:35:07 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port:
+     8083
+
+
+Log =>  time : Tue Feb 14 2017 23:35:07 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Log =>  time : Tue Feb 14 2017 23:37:10 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port:
+     8083
+
+
+Log =>  time : Tue Feb 14 2017 23:37:10 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Log =>  time : Tue Feb 14 2017 23:37:37 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port:
+     8083
+
+
+Error =>  time : Tue Feb 14 2017 23:37:37 GMT+0100 (WAT) :  Event Scheduling Failed : ${error}
+Log =>  time : Tue Feb 14 2017 23:38:39 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port:
+     8083
+
+
+Error =>  time : Tue Feb 14 2017 23:38:39 GMT+0100 (WAT) :  Event Scheduling Failed : ${error}
+Log =>  time : Tue Feb 14 2017 23:40:24 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port:
+     8083
+
+
+Log =>  time : Tue Feb 14 2017 23:40:24 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Log =>  time : Tue Feb 14 2017 23:47:55 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port:
+     8083
+
+
+Log =>  time : Tue Feb 14 2017 23:47:55 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Log =>  time : Tue Feb 14 2017 23:48:34 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port:
+     8083
+
+
+Error =>  time : Tue Feb 14 2017 23:48:34 GMT+0100 (WAT) :  Event Scheduling Failed : Error: connect ETIMEDOUT
+Log =>  time : Tue Feb 14 2017 23:51:42 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port:
+     8083
+
+
+Log =>  time : Tue Feb 14 2017 23:51:42 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Log =>  time : Tue Feb 14 2017 23:56:26 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Log =>  time : Tue Feb 14 2017 23:56:26 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Error =>  time : Tue Feb 14 2017 23:56:26 GMT+0100 (WAT) : Event Scheduling Failed : TypeError: Cannot read property 'scheduleMailEvents' of undefined
+Error =>  time : Tue Feb 14 2017 23:56:26 GMT+0100 (WAT) : Error : Event Scheduling Failed : TypeError: Cannot read property 'scheduleMailEvents' of undefined
+Log =>  time : Wed Feb 15 2017 11:53:28 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Error =>  time : Wed Feb 15 2017 11:53:27 GMT+0100 (WAT) :  Event Scheduling Failed : Error: connect ECONNREFUSED 127.0.0.1:3306
+Log =>  time : Wed Feb 15 2017 11:55:08 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Log =>  time : Wed Feb 15 2017 11:55:08 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Log =>  time : Wed Feb 15 2017 12:02:26 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Log =>  time : Wed Feb 15 2017 12:02:26 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Log =>  time : Wed Feb 15 2017 12:05:52 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Error =>  time : Wed Feb 15 2017 12:05:52 GMT+0100 (WAT) :  Event Scheduling Failed : TypeError: day.forEach is not a function
+Log =>  time : Wed Feb 15 2017 12:06:34 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Log =>  time : Wed Feb 15 2017 12:06:34 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Log =>  time : Wed Feb 15 2017 12:10:11 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Log =>  time : Wed Feb 15 2017 12:10:11 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Log =>  time : Wed Feb 15 2017 12:11:41 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Log =>  time : Wed Feb 15 2017 12:11:41 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Log =>  time : Wed Feb 15 2017 12:13:48 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Log =>  time : Wed Feb 15 2017 12:13:48 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Log =>  time : Wed Feb 15 2017 12:14:42 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Log =>  time : Wed Feb 15 2017 12:14:42 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Log =>  time : Wed Feb 15 2017 12:19:17 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Log =>  time : Wed Feb 15 2017 12:19:17 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Log =>  time : Wed Feb 15 2017 12:21:30 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Error =>  time : Wed Feb 15 2017 12:21:30 GMT+0100 (WAT) :  Event Scheduling Failed : TypeError: data.forEach is not a function
+Log =>  time : Wed Feb 15 2017 12:25:11 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Log =>  time : Wed Feb 15 2017 12:25:11 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Log =>  time : Wed Feb 15 2017 12:26:46 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Log =>  time : Wed Feb 15 2017 12:26:46 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Log =>  time : Wed Feb 15 2017 12:52:02 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Log =>  time : Wed Feb 15 2017 12:52:02 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Log =>  time : Wed Feb 15 2017 12:55:22 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Log =>  time : Wed Feb 15 2017 12:55:22 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Log =>  time : Wed Feb 15 2017 12:55:37 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Log =>  time : Wed Feb 15 2017 12:55:37 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Log =>  time : Wed Feb 15 2017 13:00:02 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Log =>  time : Wed Feb 15 2017 13:00:02 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Log =>  time : Wed Feb 15 2017 13:00:42 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Log =>  time : Wed Feb 15 2017 13:00:42 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Log =>  time : Wed Feb 15 2017 13:02:31 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Log =>  time : Wed Feb 15 2017 13:02:31 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Log =>  time : Wed Feb 15 2017 13:04:13 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Log =>  time : Wed Feb 15 2017 13:04:13 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Log =>  time : Wed Feb 15 2017 13:04:42 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Log =>  time : Wed Feb 15 2017 13:04:42 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Log =>  time : Wed Feb 15 2017 13:05:35 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Log =>  time : Wed Feb 15 2017 13:05:35 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Log =>  time : Wed Feb 15 2017 13:15:31 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Log =>  time : Wed Feb 15 2017 13:15:31 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Log =>  time : Wed Feb 15 2017 13:19:37 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Log =>  time : Wed Feb 15 2017 13:19:37 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Log =>  time : Wed Feb 15 2017 13:22:24 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Log =>  time : Wed Feb 15 2017 13:22:24 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Log =>  time : Wed Feb 15 2017 13:24:16 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Log =>  time : Wed Feb 15 2017 13:24:16 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Log =>  time : Wed Feb 15 2017 13:30:07 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Log =>  time : Wed Feb 15 2017 13:30:07 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Log =>  time : Wed Feb 15 2017 13:34:19 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Log =>  time : Wed Feb 15 2017 13:34:18 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Log =>  time : Wed Feb 15 2017 14:11:31 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Log =>  time : Wed Feb 15 2017 14:11:31 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Log =>  time : Wed Feb 15 2017 14:20:51 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Error =>  time : Wed Feb 15 2017 14:20:51 GMT+0100 (WAT) :  Event Scheduling Failed : Error: select `id`, `scheduled_at`, `title` from `Events` where  scheduled_at between '2017-02-15T00:00' and '2017-02-15T23:59' and  status = SCHEDULED - ER_BAD_FIELD_ERROR: Unknown column 'SCHEDULED' in 'where clause'
+Log =>  time : Wed Feb 15 2017 14:21:47 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Log =>  time : Wed Feb 15 2017 14:21:47 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Log =>  time : Wed Feb 15 2017 14:22:48 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Log =>  time : Wed Feb 15 2017 14:22:48 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Log =>  time : Wed Feb 15 2017 14:25:00 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Log =>  time : Wed Feb 15 2017 14:25:00 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Log =>  time : Wed Feb 15 2017 14:27:08 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Log =>  time : Wed Feb 15 2017 14:27:08 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Log =>  time : Wed Feb 15 2017 14:32:53 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Log =>  time : Wed Feb 15 2017 14:32:53 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Log =>  time : Wed Feb 15 2017 14:35:48 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Log =>  time : Wed Feb 15 2017 14:35:48 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Log =>  time : Wed Feb 15 2017 16:18:54 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Log =>  time : Wed Feb 15 2017 16:18:54 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Log =>  time : Wed Feb 15 2017 16:23:13 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Log =>  time : Wed Feb 15 2017 16:23:13 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Log =>  time : Wed Feb 15 2017 16:25:57 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Log =>  time : Wed Feb 15 2017 16:25:57 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Log =>  time : Wed Feb 15 2017 16:48:23 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Log =>  time : Wed Feb 15 2017 16:48:23 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Log =>  time : Wed Feb 15 2017 17:08:04 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Log =>  time : Wed Feb 15 2017 17:08:04 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Log =>  time : Wed Feb 15 2017 17:12:18 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Log =>  time : Wed Feb 15 2017 17:12:18 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Log =>  time : Wed Feb 15 2017 17:12:35 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Log =>  time : Wed Feb 15 2017 17:12:35 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Log =>  time : Wed Feb 15 2017 17:16:41 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Log =>  time : Wed Feb 15 2017 17:16:41 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Error =>  time : Wed Feb 15 2017 17:16:41 GMT+0100 (WAT) : scheduleMailEvents : Message =>  Email is/are Sent 
+Error =>  time : Wed Feb 15 2017 17:16:41 GMT+0100 (WAT) : scheduleMailEvents : Message =>  Email is/are Sent 
