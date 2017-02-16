@@ -64,24 +64,24 @@ class Service {
             .then(() => {
                 return db.getAllMailsOfEventByTitle(title);
             })
-            .catch(error => console.log(`scheduleMailEvents : Error => ${scheduleMailEvents}`))
+            .catch(error => console.log(`scheduleMailEvents : Error => ${error}`))
             .then(data => {
                 if(data) {
-                    return mailer({
+                     return mailer({
                         from: 'Quix_no_reply',
                         to: this.extractMail(data),
                         subject: title,
                         text: 'This is a testing mail ... please do not reply'
-                    });
+                    })
                 }
                 else{
                     logger.error(`Empty Recipient list`);
                     return Promise.reject(` Empty Recipient list`);
                 }
             })
-            .catch(error => logger.error(`scheduleMailEvents : Error => ${scheduleMailEvents}`))
+            .catch(error => logger.error(`scheduleMailEvents : Error => ${error}`))
             .then((message) => logger.error(`scheduleMailEvents : Message => ${message}`))
-            .catch(error => logger.error(`scheduleMailEvents : Error => ${scheduleMailEvents}`));
+            .catch(error => logger.error(`scheduleMailEvents : Error => ${error}`));
     }
     catch(error){
         return Promise.reject(error);

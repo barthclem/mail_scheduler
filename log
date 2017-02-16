@@ -402,3 +402,53 @@ The Mail App is running on host: :: and port: 8083
 Log =>  time : Wed Feb 15 2017 17:16:41 GMT+0100 (WAT) :  Data : Dates have been scheduled
 Error =>  time : Wed Feb 15 2017 17:16:41 GMT+0100 (WAT) : scheduleMailEvents : Message =>  Email is/are Sent 
 Error =>  time : Wed Feb 15 2017 17:16:41 GMT+0100 (WAT) : scheduleMailEvents : Message =>  Email is/are Sent 
+Error =>  time : Wed Feb 15 2017 17:16:41 GMT+0100 (WAT) : scheduleMailEvents : Message =>  Email is/are Sent 
+Log =>  time : Thu Feb 16 2017 08:55:14 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Log =>  time : Thu Feb 16 2017 08:55:14 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Error =>  time : Thu Feb 16 2017 08:55:14 GMT+0100 (WAT) : scheduleMailEvents : Message =>  Email is/are Sent 
+Error =>  time : Thu Feb 16 2017 08:55:14 GMT+0100 (WAT) : scheduleMailEvents : Message =>  Email is/are Sent 
+Error =>  time : Thu Feb 16 2017 08:55:14 GMT+0100 (WAT) : scheduleMailEvents : Message =>  Email is/are Sent 
+Log =>  time : Thu Feb 16 2017 09:03:02 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Log =>  time : Thu Feb 16 2017 09:03:02 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Error =>  time : Thu Feb 16 2017 09:03:02 GMT+0100 (WAT) : scheduleMailEvents : Message => undefined
+Error =>  time : Thu Feb 16 2017 09:03:02 GMT+0100 (WAT) : scheduleMailEvents : Message => undefined
+Error =>  time : Thu Feb 16 2017 09:03:02 GMT+0100 (WAT) : scheduleMailEvents : Message => undefined
+Error =>  time : Thu Feb 16 2017 09:03:02 GMT+0100 (WAT) : scheduleMailEvents : Message => undefined
+Log =>  time : Thu Feb 16 2017 09:11:07 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Log =>  time : Thu Feb 16 2017 09:11:07 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Error =>  time : Thu Feb 16 2017 09:11:07 GMT+0100 (WAT) : scheduleMailEvents : Message => undefined
+Error =>  time : Thu Feb 16 2017 09:11:07 GMT+0100 (WAT) : scheduleMailEvents : Message => undefined
+Error =>  time : Thu Feb 16 2017 09:11:07 GMT+0100 (WAT) : scheduleMailEvents : Message => undefined
+Error =>  time : Thu Feb 16 2017 09:11:07 GMT+0100 (WAT) : scheduleMailEvents : Message => undefined
+Log =>  time : Thu Feb 16 2017 09:37:27 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Log =>  time : Thu Feb 16 2017 09:37:27 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Error =>  time : Thu Feb 16 2017 09:37:27 GMT+0100 (WAT) : scheduleMailEvents : Message =>  Email is/are Sent 
+Error =>  time : Thu Feb 16 2017 09:37:27 GMT+0100 (WAT) : scheduleMailEvents : Message =>  Email is/are Sent 
+Error =>  time : Thu Feb 16 2017 09:37:27 GMT+0100 (WAT) : scheduleMailEvents : Message =>  Email is/are Sent 
+Log =>  time : Thu Feb 16 2017 09:37:57 GMT+0100 (WAT) : 
+
+The Mail App is running on host: :: and port: 8083
+
+
+Log =>  time : Thu Feb 16 2017 09:37:57 GMT+0100 (WAT) :  Data : Dates have been scheduled
+Error =>  time : Thu Feb 16 2017 09:37:57 GMT+0100 (WAT) : scheduleMailEvents : Error => Error: No recipients defined
+Error =>  time : Thu Feb 16 2017 09:37:57 GMT+0100 (WAT) : scheduleMailEvents : Message => undefined
+Error =>  time : Thu Feb 16 2017 09:37:57 GMT+0100 (WAT) : scheduleMailEvents : Message =>  Email is/are Sent 
+Error =>  time : Thu Feb 16 2017 09:37:57 GMT+0100 (WAT) : scheduleMailEvents : Message =>  Email is/are Sent 
+Error =>  time : Thu Feb 16 2017 09:37:57 GMT+0100 (WAT) : scheduleMailEvents : Message =>  Email is/are Sent 
