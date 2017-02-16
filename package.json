@@ -18,6 +18,7 @@
     "express": "^4.14.0",
     "express-handlebars": "^3.0.0",
     "https": "^1.0.0",
+    "joi": "^10.2.2",
     "jscs": "^2.11.0",
     "knex": "^0.12.6",
     "lodash": "^4.17.4",
@@ -27,6 +28,8 @@
     "nodemailer": "^3.0.2",
     "path": "^0.12.7",
     "request": "2.72.0",
-    "restify": "4.1.1"
+    "restify": "4.1.1",
+    "server": "^1.0.0-alpha.19",
+    "supertest": "^3.0.0"
   }
 }
