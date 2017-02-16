@@ -7,9 +7,9 @@ class Service {
 
     saveEvent (event) {
       return new Promise((resolve,reject)=>{
-          EventModel.forge(event).save().then(()=>{ console.log(` Data has been saved to the database`);resolve('Data Saved')})
+          EventModel.forge(event).save().then(()=>{resolve('Data Saved')})
 	.catch((error)=>{
-      	    console.log(`Error is ${error}`);
+
 	       reject(error);
 	});
 
