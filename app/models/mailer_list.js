@@ -2,14 +2,14 @@
 
 let bookshelf = require('../bookshelf');
 
-let Events = require ('./events');
+let Events = require('./events');
 
 let MailerList = bookshelf.Model.extend({
-      tableName : 'Mailer_list',
+    tableName: 'Mailer_list',
 
-      events : function () {
-                 return this.belongsTo(Events);
-	       }
+    events: function () {
+        return this.belongsTo(Events);
+    }
 });
 
-module.exports = bookshelf.model ('Mailer_list',MailerList);
+module.exports = bookshelf.model('Mailer_list', MailerList);

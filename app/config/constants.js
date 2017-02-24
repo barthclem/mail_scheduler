@@ -5,7 +5,7 @@
 
 let status = ['SCHEDULED', 'OPEN', 'CLOSED'];
 module.exports = {
-  events : {
-     status : status
-  }
+    events: {
+        status: status
+    }
 };
