@@ -38,7 +38,7 @@ router.route('/regEvent').
     .post((request,response)=>{
       console.log('Form is posted now');
       let data = request.body;
-      data = {id: 1, title : 'Big Quiz Timez', date : '2017-02-17', email : 'aanu.oyeyemi@konga.com', creator : 'Oyeyemi Clement' };
+      //data = {id: 1, title : 'Big Quiz Timez', date : '2017-02-17', email : 'aanu.oyeyemi@konga.com', creator : 'Oyeyemi Clement' };
       let eventParameter = ['id','title','date'];
       let event = pick(data,eventParameter);
       service.registerEvent(event);
@@ -61,7 +61,7 @@ router.route('/regEvent').
      .post((request,response)=>{
          console.log('A user submitted his form');
          let data = request.body;
-         data = {event_id : 1, email : 'barthclem@gmail.com', username : 'barthclem'};
+         //data = {event_id : 1, email : 'barthclem@gmail.com', username : 'barthclem'};
          db.saveUserMail(data).then(()=>{
              console.log('Data saved successfuly');
              response.send('Data Sender');
